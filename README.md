@@ -1,5 +1,7 @@
 # PatchExample
 
+This is a quick example made to illustrate how patch works with handle_params and the live component update callback.
+
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
